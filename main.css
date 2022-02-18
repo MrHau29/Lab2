@@ -1,0 +1,15 @@
+body {
+    color: aliceblue;
+    font-size: larger;
+    text-align: center;
+    background-image: url(/lab2/background-pizza.jpg);
+    background-size: 100%;
+}
+
+hr {
+    visibility: hidden;
+}
+
+p {
+    background-color: antiquewhite red;
+}
